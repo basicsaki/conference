@@ -4,7 +4,7 @@ cd /conference/lib
 
 ruby main.rb file_path
 
-Yet to add tests.
+Yet to add tests.Will do by next week.
 
 Coding problem: Conference Track Management : Ruby implementation
 
