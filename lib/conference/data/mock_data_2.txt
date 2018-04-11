@@ -1,0 +1,19 @@
+Writing Fast Tests Against Enterprise Rails 30min
+Overdoing it in Python 45min
+Lua for the Masses 45min
+Ruby Errors from Mismatched Gem Versions 45min
+Common Ruby Errors 30min
+Rails for Python Developers 2lightning
+Communicating Over Distance 60min
+Accounting-Driven Development 35min
+Woah 40min
+Sit Down and Write 45min
+Pair Programming vs Noise 30min
+Rails Magic 60min
+Ruby on Rails: Why We Should Move On 60min
+Clojure Ate Scala (on my project) 43min
+Programming in the Boondocks of Seattle 47min
+Ruby vs. Clojure for Back-End Development 30min
+Ruby on Rails Legacy App Maintenance 60min
+A World Without HackerNews 60min
+User Interface CSS-second in Rails Apps 45min
