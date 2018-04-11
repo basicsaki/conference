@@ -111,7 +111,7 @@ attr_accessor :data_clone,:sorted_data #,:time,:title,:processed_data,:errors,:d
 
 			#for the last iteration check if any session/slot is left and add to evening slots.
 			if (n == 11)
-				@left_slots = @data - @slot_1.sessions - @slot_2.sessions - @slot_3.sessions - @slot_4.sessions
+				@left_sessions = @data - @slot_1.sessions - @slot_2.sessions - @slot_3.sessions - @slot_4.sessions
 			else
 				@data_clone = @left_sessions
 				@left_sessions = []
